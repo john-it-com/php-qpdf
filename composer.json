@@ -1,5 +1,5 @@
 {
-    "name": "tobiasdierich/php-qpdf",
+    "name": "john-it-com/php-qpdf",
     "description": "A PDF manipulation library based on QPDF",
     "keywords": ["pdf", "qpdf"],
     "type": "library",
@@ -8,6 +8,10 @@
         {
             "name": "Tobias Dierich",
             "email": "git@tobiasdierich.de"
+        },
+        {
+            "name": "JOHN IT GmbH",
+            "email": "info@john-it.com"
         }
     ],
     "require": {
